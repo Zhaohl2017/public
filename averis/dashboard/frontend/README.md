@@ -1,15 +1,15 @@
 # A dashboard project created with React
 
-A dashboard project created using ReactJS, Typescript with REST API.
+A dashboard project created using ReactJS & Typescript by calling REST APIs in backend.
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:8081) to view it in the browser.
+Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
 ### `npm run build`
 
