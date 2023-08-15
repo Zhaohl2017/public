@@ -22,7 +22,7 @@ After build successfully in production mode, then you can use the above 2 comman
 
 ## Technology
 
-Main technoloties as below list:
+Main technologies as below list:
 
     . React 18.2.0
     . typescript 5.0.1
