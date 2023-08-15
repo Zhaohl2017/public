@@ -1,4 +1,4 @@
-# Servic created using NodeJS Express framework (JWT Authentication with PostgreSQL) for the Dashboard project
+# Bacckend servic created using NodeJS Express framework (JWT Authentication with PostgreSQL) for the Dashboard project
 
 This is the REST API service with JWT Authentication created under NodeJS Express framework & PostgreSQL database, used for he Dashboard project.
 
@@ -34,6 +34,11 @@ Main technologies as below list:
     . pg 8.11.2
     . pg-hstore 2.3.4
     . sequelize 6.32.1
+
+Running time:
+
+    . node 20.3.1
+    . npm 9.6.7
 
 ## Project setup
 ```
