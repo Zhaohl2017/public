@@ -30,6 +30,5 @@ Main technologies as below list:
     . axios 1.4.0
     . formik 2.4.3
     . yup 1.2.0
-    . Bootstrap 4.6/2
     . chart.js 4.3.3
     . react-chartjs-2 5.2.0
