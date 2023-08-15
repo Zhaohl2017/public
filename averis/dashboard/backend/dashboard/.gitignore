@@ -1,8 +1,4 @@
 node_modules/
 package-lock.json
-public/logs/
-public/grow/
-public/pipe/
-config/
 .vscode/
-app.js
+service.js
