@@ -1,6 +1,6 @@
 # Backend service created using NodeJS & Express framework (JWT Authentication with PostgreSQL) for the Dashboard project
 
-This is the REST API service with JWT Authentication created under NodeJS Express framework & PostgreSQL database, used for he Dashboard project.
+This is the REST API service with JWT Authentication created using NodeJS, Express framework & PostgreSQL database, used for he Dashboard project.
 
 ## API list
 
